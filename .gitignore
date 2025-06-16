@@ -1,3 +1,5 @@
-__pycache__/
+# macOS system files
+.DS_Store
 
-.DS_Store/
+# Python cache directories
+__pycache__/
