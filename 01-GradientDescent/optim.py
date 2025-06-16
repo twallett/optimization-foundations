@@ -2,7 +2,7 @@
 import numpy as np
 import sympy as sp
 
-class SGD:
+class GD:
     def __init__(self, alpha):
         self.alpha = alpha
         self.x_k = []

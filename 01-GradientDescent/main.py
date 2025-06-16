@@ -1,5 +1,5 @@
 #%%
-from optim import SGD
+from optim import GD
 from utils import *
 import numpy as np
 import sympy as sp
@@ -19,7 +19,7 @@ Z = f(X,Y)
 x, y = sp.symbols('x y', real=True)
 function = x**2 + y**2
 
-optim = SGD(alpha=ALPHA)
+optim = GD(alpha=ALPHA)
 
 x_k = optim.forward(function, INIT)
 
