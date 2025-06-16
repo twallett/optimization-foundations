@@ -30,10 +30,10 @@ Gradient Descent is an iterative optimization method used to find the minimum of
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/01-GradientDescent/plots/GD_contour.gif" alt="First GIF" width="100%">
+      <img src="01-GradientDescent/plots/GD_contour.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/01-GradientDescent/plots/GD_surface.gif" alt="Second GIF" width="100%">
+      <img src="01-GradientDescent/plots/GD_surface.gif" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -55,10 +55,10 @@ Linear Minimization is an optimization technique that involves finding the minim
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/02-LinearMinimization/plots/LinearMinimization_contour.gif" alt="First GIF" width="100%">
+      <img src="02-LinearMinimization/plots/LinearMinimization_contour.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/02-LinearMinimization/plots/LinearMinimization_surface.gif" alt="Second GIF" width="100%">
+      <img src="02-LinearMinimization/plots/LinearMinimization_surface.gif" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -77,10 +77,10 @@ Newton's Method is an iterative optimization algorithm that uses second-order de
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/03-NewtonsMethod/plots/NewtonsMethod_contour.gif" alt="First GIF" width="100%">
+      <img src="03-NewtonsMethod/plots/NewtonsMethod_contour.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/03-NewtonsMethod/plots/NewtonsMethod_surface.gif" alt="Second GIF" width="100%">
+      <img src="03-NewtonsMethod/plots/NewtonsMethod_surface.gif" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -106,10 +106,10 @@ The Conjugate Gradient method is used to solve unconstrained optimization proble
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/04-ConjugateMethod/plots/ConjugateMethod_contour.gif" alt="First GIF" width="100%">
+      <img src="04-ConjugateMethod/plots/ConjugateMethod_contour.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/Optimization/04-ConjugateMethod/plots/ConjugateMethod_surface.gif" alt="Second GIF" width="100%">
+      <img src="04-ConjugateMethod/plots/ConjugateMethod_surface.gif" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>

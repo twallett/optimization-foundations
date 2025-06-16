@@ -7,7 +7,7 @@ from matplotlib import animation
 def animate_contour(x_k, X, Y, Z, function_latex, f):
     fig, ax = plt.subplots(figsize = (7,7))
     ax.contour(X, Y, Z, 100, cmap = 'jet')
-    ax.set_title(f"GD contour plot of {function_latex}")
+    ax.set_title(f"GradientDescent contour plot of {function_latex}")
 
     line, = ax.plot([], [], 'r', label = 'GD', lw = 1.5)
     point, = ax.plot([], [], '*', color = 'red', markersize = 4)
@@ -65,7 +65,7 @@ def animate_surface(x_k, X, Y, Z, function_latex, f):
     ax.set_zlabel('$Z$')
      
     ax.plot_surface(X, Y, Z, cmap = plt.cm.CMRmap, edgecolor ='green', alpha = 0.5)
-    ax.set_title(f"GD surface plot of {function_latex}")
+    ax.set_title(f"GradientDescent surface plot of {function_latex}")
      
     ax.view_init(40, 75)
      
