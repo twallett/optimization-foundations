@@ -6,6 +6,7 @@
 ├── 02-LinearMinimization 
 ├── 03-NewtonsMethod
 ├── 04-ConjugateMethod
+├── .gitignore
 └── README.md
 ```
 
