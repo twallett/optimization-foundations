@@ -7,6 +7,7 @@
 ├── 03-NewtonsMethod
 ├── 04-ConjugateMethod
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
